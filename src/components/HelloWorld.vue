@@ -1,7 +1,6 @@
 <template lang="pug">
 .md-layout
 	.md-layout-item
-
 		img(src='../assets/biohazard.svg', width='175px')
 		h1 {{ msg }}
 		h2 Devo Lançou a Bolacha em 1979
@@ -21,7 +20,6 @@
 			i.fa.fa-transgender.fa-lg
 			| &nbsp; Are We Not Men?
 		blockquote «Time keeps on slipping<br> slipping slipping<br> into the future»
-
 </template>
 script.
   export default {
@@ -50,7 +48,7 @@ export default {
 	flex-direction: row;
 	justify-content: center;
 	align-items: center;
-	text-align: justify;
+	justify-content: center;
 	text-align-last: center;
 	padding: 50px;
 }

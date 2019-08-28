@@ -9,7 +9,7 @@
 		i.fa.fa-street-view.fa-5x
 	md-button.md-primary.md-raised(to="future-eight")
 		md-icon waves
-		| &nbsp; A Sci-Fi Maitai
+		| &nbsp; Sci-Fi Jai Alai
 	blockquote O Sambojano e Superusuário é o Gran Bretônio
 </template>
 
